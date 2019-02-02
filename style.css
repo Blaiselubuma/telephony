@@ -1,0 +1,91 @@
+.main {
+				margin:auto;
+				padding:15px;
+				border:0px solid;
+				border-radius:5px;
+				background:#eee;
+				
+				
+		}
+		#tribute-info {
+			font-family:arial narrow;
+			border:5px solid;
+			border-radius:5px;
+			padding:15px;
+			max-width:65%;
+			margin: 0 auto;
+			min-width:260px;
+			color:#333;
+			line-height: 1.5;
+			text-align: justify;
+			}
+		#title {
+			font-family:Trebuchet MS, serif;
+			font-style:bold;
+			text-align:center;
+			margin:30px auto;
+			padding:15px;
+			border:0px solid;
+			width:40%;
+			border-radius:5px;
+			background:#eee;
+		}
+		body {
+			
+			background:orange;
+		}
+		h2 {
+			border:0px solid;
+			border-radius:5px;
+			margin:5px auto;
+			width: 40%;
+			background-color: Gray;
+			font-family: Arial Narrow;
+			text-align: center;
+			color: white;
+		}
+		#img-div img {
+			max-width: 100%; 
+			display: block; 
+			height: auto;
+			margin: auto;
+			padding: 8px;
+      border: 1px solid #CCC;
+      margin-bottom: 10px;
+		}
+    #img-caption {
+    
+    }
+		.evolution {
+			text-align: left;
+		}
+		#tribute-link {
+		font-family:Trebuchet Ms;
+		font-size:12px;
+		}
+		#image {
+		float:top;
+		margin-bottom: 6px;
+    max-width: 100%;
+		}
+    .image1 {
+    float:left;
+    margin-right: 30px;
+    margin-bottom: auto;
+    width: 100px;
+    border: 2px solid #CCC;
+    }
+    #image2 {
+    float:center;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px; 
+      
+    }
+		#more-info {
+		font-family: Agencey FB, arial;
+		Font-size: 12px;
+		text-align:center;
+		}
